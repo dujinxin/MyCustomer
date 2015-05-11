@@ -1,0 +1,61 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+// 是否输出日至 － 注释掉表示不输出log
+//#define SHOWLOG
+// 是否是生产环境  - 注释表示是测试环境
+#define PRODUCTION
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <QuartzCore/QuartzCore.h>
+    #import "MACROS_P.h"
+    #import "UserAccount.h"
+    #import "YHAppDelegate.h"
+    #import "MBProgressHUD.h"
+    #import "Reachability.h"
+    #import "EGORefreshTableHeaderView.h"
+    #import "WBLoadMoreTableFootView.h"
+    #import "EGORefreshTableFooterView.h"
+    #import "EGOViewCommon.h"
+    #import "YHBaseTableViewController.h"
+    #import "iToast.h"
+    #import "JSONKit.h"
+    #import "NetTrans.h"
+    #import "NetTransObj.h"
+    #import "UIImageView+WebCache.h"
+    #import "PublicMethod.h"
+    #import "UIView+Addition.h"
+    #import "GuideView.h"
+    #import "UIBarButtonItem+Addition.h"
+    #import "YHNavigationController.h"
+    #import "YHLoginViewController.h"
+    #import "NSString+Addition.h"
+    #import "UIButton+OnlineImage.h"
+    #import "UIImageView+OnlineImage.h"
+    #import <ShareSDK/ShareSDK.h>
+    #import "PSNetTrans.h"
+    #import "MyPickerView.h"
+    #import "GJGLAlertView.h"
+    #import "UITextField+LeftSpace.h"
+    #import "MMLocationManager.h"
+    #import "RefleshManager.h"
+    #import "MTA.h"
+    #import "MTAConfig.h"
+    #import "UILabelStrikeThrough.h"
+    #import "AFNetworking.h"
+    #import <SystemConfiguration/SystemConfiguration.h>
+    #import <MobileCoreServices/MobileCoreServices.h>
+//    #import"UIImageView+AFNetworking.h"
+
+#endif

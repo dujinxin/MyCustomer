@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F0F8F63D-6253-4859-BBC3-D41B482A7C88</string>
+	<key>IDESourceControlProjectName</key>
+	<string>YHCustomer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B97A95712D13CE1018F38C26F55B1A7F342740B8</key>
+		<string>http://220.249.82.202:9800/tfs/T2014/RD.201406.YHWD.Git/_git/IOS</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>YHCustomer/YHCustomer.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B97A95712D13CE1018F38C26F55B1A7F342740B8</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://220.249.82.202:9800/tfs/T2014/RD.201406.YHWD.Git/_git/IOS</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B97A95712D13CE1018F38C26F55B1A7F342740B8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B97A95712D13CE1018F38C26F55B1A7F342740B8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>new</string>
+		</dict>
+	</array>
+</dict>
+</plist>
